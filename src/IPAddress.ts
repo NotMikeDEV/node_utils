@@ -1,4 +1,4 @@
-import {parse as ParseIP6Addr} from "ip6addr";
+import {parse as ParseIP6Addr} from "ip6addr"
 
 class IPAddress {
     private Addr

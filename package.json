@@ -1,5 +1,5 @@
 {
-    "name": "Node Utils",
+    "name": "@notmikedev/node_utils",
     "version": "0.0.1",
     "main": "./dist/index.js",
     "exports": {
@@ -16,5 +16,9 @@
     },
     "dependencies": {
         "ip6addr": "^0.2.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NotMikeDEV/node_utils.git"
     }
 }

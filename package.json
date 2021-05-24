@@ -10,6 +10,7 @@
         "clean": "rm -f *.js"
     },
     "devDependencies": {
+        "@types/ip6addr": "^0.2.2",
         "@types/node": "^15.6.0",
         "typescript": "^4.2.4"
     },
